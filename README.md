@@ -10,7 +10,6 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
 <!--
 **KaiqueDultra/KaiqueDultra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
