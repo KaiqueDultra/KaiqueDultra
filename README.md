@@ -19,13 +19,13 @@ Sou um desenvolvedor apaixonado por Engenharia de Software. Adoro criar soluçõ
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&bg_color=ffffff&text_color=000000)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueDultra&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&bg_color=ffffff&text_color=000000)
 
 ## 🌟 Projetos em Destaque
 
-- [Projeto 1](https://github.com/seu-usuario/projeto-1) - Breve descrição do projeto.
-- [Projeto 2](https://github.com/seu-usuario/projeto-2) - Breve descrição do projeto.
-- [Projeto 3](https://github.com/seu-usuario/projeto-3) - Breve descrição do projeto.
+- [SGD](https://github.com/KaiqueDultra/SGD) - Aplicativo Android de Gerenciamento Demográfico realizado em Java.
+- [Climate System](https://github.com/KaiqueDultra/Climate_system) - Sistema de Clima realizado em Python. 
+- [Banco eletrônico](https://github.com/KaiqueDultra/Banco-Eletronico) - Banco Eletrônico feito em C#.
 
 ## 📣 Conecte-se Comigo
 
