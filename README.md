@@ -1,21 +1,4 @@
 <!-- Markdown Here -->
-# Olá, eu sou o Kaique. 👋
-
-Sou um desenvolvedor apaixonado por Engenharia de Software. Adoro criar soluções inovadoras e enfrentar desafios tecnológicos. Aqui você vai encontrar alguns dos meus projetos e contribuições!
-
-## 🚀 Sobre Mim
-
-- 🔭 Atualmente trabalhando na Samsung Research Brazil.
-- 👯 Estou aberto(a) para colaborar em projetos relacionados a [Tecnologias de Interesse]
-- 🤔 Interessado(a) em [Interesses Tecnológicos ou Outros]
-- 💬 Pergunte-me sobre [Áreas de Especialização]
-- 📫 Como me encontrar: [Seu Email ou Link para Contato]
-
-## 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens:** Python, JavaScript, Java
-- **Ferramentas:** Git, Docker, Kubernetes, VS Code
-- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
 
 ## 📈 Estatísticas do GitHub
 
