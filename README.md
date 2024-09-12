@@ -1,6 +1,6 @@
 <!-- Markdown Here -->
 
-## 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub - Kaique Dultra
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueDultra&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&bg_color=ffffff&text_color=000000)
 
