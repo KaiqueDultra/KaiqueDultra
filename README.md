@@ -2,7 +2,11 @@
 
 ## 📈 Estatísticas do GitHub - Kaique Dultra
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueDultra&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&bg_color=ffffff&text_color=000000)
+<div align="center">
+  <a href="https://github.com/KaiqueDultra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueDultra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueDultra&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## 🌟 Projetos em Destaque
 
