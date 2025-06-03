@@ -13,12 +13,4 @@
 - [Climate System](https://github.com/KaiqueDultra/Climate_system) - Sistema de Clima realizado em Python. 
 - [Banco eletrônico](https://github.com/KaiqueDultra/Banco-Eletronico) - Banco Eletrônico feito em C#.
 
-## 📣 Conecte-se Comigo
-
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Twitter](https://twitter.com/seu-perfil)
-- [Website/Blog](https://seu-site.com)
-
----
-
 💼 Estou sempre aberto(a) a novas oportunidades e colaborações. Se você quiser conversar sobre tecnologia, projetos ou qualquer outra coisa, sinta-se à vontade para me contatar!
